@@ -4,6 +4,12 @@
 - Although I did install the Wi-Fi and Bluetooth drivers, I will be removing the physical mini PCIe card from the chassis, followed by the hardware device removal using Device Manager. 
 - Please ensure 7-Zip is installed on the computer as it will be used later. (administrator cmd prompt: winget install 7zip.7zip)
 - Ensure the MS-A2 drivers are downloaded
+    - https://www.minisforum.com/pages/product-info
+    - https://www.amd.com/en/support/download/drivers.html
+    - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Bios/F1WSA_FRG_1.02_250616a.7z
+    - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/F1WSA_AMD_MINISFORUM_Drivers_x64_250416.zip
+    - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/Ethernet+Driver.zip
+    - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/Audio+Driver.zip
 (https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/F1WSA_AMD_MINISFORUM_Drivers_x64_250416.zip)
 - Extract the files to a local directory on the machine. I've chosen C:\Installs
 - Hack as demonstrated by Youtube's @einsteinagogo,
