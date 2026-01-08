@@ -11,7 +11,7 @@
     - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/Ethernet+Driver.zip
     - https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/Audio+Driver.zip
     - https://drivers.amd.com/drivers/prographics/amd-software-pro-edition-25.q3-winsvr2025-rdna.exe
-(https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/F1WSA_AMD_MINISFORUM_Drivers_x64_250416.zip)
+    - (https://pc-file.s3.us-west-1.amazonaws.com/MS-A2/Driver/F1WSA_AMD_MINISFORUM_Drivers_x64_250416.zip)
 - Extract the files to a local directory on the machine. I've chosen C:\Installs
 - Hack as demonstrated by Youtube's @einsteinagogo,
     Admin cmd prompt to disable driver signing:
